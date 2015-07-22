@@ -1,0 +1,102 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "diegoasef@gmail.com",
+    "longName": "Feed Me Now",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/yelp_logo_40x20.png",
+                "name": "IMAGES_YELP_LOGO_40X20_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_5.png",
+                "name": "IMAGES_STARS_5_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_4_half.png",
+                "name": "IMAGES_STARS_4_HALF_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_4.png",
+                "name": "IMAGES_STARS_4_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_3_half.png",
+                "name": "IMAGES_STARS_3_HALF_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_3.png",
+                "name": "IMAGES_STARS_3_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_2_half.png",
+                "name": "IMAGES_STARS_2_HALF_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_2.png",
+                "name": "IMAGES_STARS_2_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_1_half.png",
+                "name": "IMAGES_STARS_1_HALF_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_1.png",
+                "name": "IMAGES_STARS_1_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/stars_0.png",
+                "name": "IMAGES_STARS_0_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/logo.png",
+                "name": "IMAGES_LOGO_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Feed Me Now",
+    "uuid": "293cdd4c-1236-4bc6-8bec-33d8d47b81e7",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
